@@ -1,2 +1,2 @@
 # uyolo
-A united YOLO algorithm
+a united yolo algorithm
